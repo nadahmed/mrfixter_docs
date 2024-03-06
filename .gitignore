@@ -1,0 +1,29 @@
+# Ignore build artifacts
+_build/
+
+# Ignore generated HTML files
+
+.venv
+
+*.html
+
+# Ignore generated JavaScript files
+*.js
+
+# Ignore generated CSS files
+*.css
+
+# Ignore generated image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore cache and temporary files
+.cache/
+.tmp/
+
+
+# Ignore Sphinx output directories
+docs/
+/build/
